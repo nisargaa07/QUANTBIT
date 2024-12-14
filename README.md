@@ -1,1 +1,2 @@
 # QUANTBIT
+This repository contains the solution to an assignment provided by Quantibit as part of an internship opportunity. The task involves performing K-means clustering on the Iris dataset and using PCA for dimensionality reduction to visualize the clusters in a 2D space. The implementation includes data preprocessing, clustering, dimensionality reduction, and visualization, along with the evaluation of clustering performance using the Adjusted Rand Index. 
